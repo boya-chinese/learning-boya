@@ -7,3 +7,13 @@
 @import "syntax-highlighting";
 @import "bootstrap-4-jekyll/bootstrap-4-jekyll";
 @import "bootstrap_customization";
+
+* {
+  font-family: 'Noto Sans SC';
+}
+
+.pinyin {
+  font-size: 20px;
+  display: inline-block;
+  width: 100px;
+}

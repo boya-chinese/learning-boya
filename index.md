@@ -3,12 +3,15 @@ layout: page
 title: Boya Chinese Courses
 ---
 
-### # Lession 1
+### Lessions
 
-<div style='font-size: 30px'>
+- [1 - 9](/lession_1_8)<br>
+- [8 - 16](/lession_9_16)
+
+<!-- <div style='font-size: 30px'>
 你：ní<br>
 好：háo
-</div>
+</div> -->
 
 <!-- A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/). -->
 
